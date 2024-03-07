@@ -6,7 +6,7 @@
 #### ELT/ETL Tools: Databricks<br>
 #### Cloud Development: Microsoft Azure<br>
 #### Data Analyzing Tools: Microsoft Excel<br>
-#### Others: Git, Agile, Jira, Project Management, PowerPoint, MS Office, Digital Marketing<br>
+#### Others: Git, Agile, Jira, Project Management, PowerPoint, MS Office, Digital Marketing<be>
 
 
 ## Education

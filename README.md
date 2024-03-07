@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Programming Languages: Python, SQL<br>
 #### Python Libraries: NumPy, Pandas, PySpark, Scikit-learn<br>
@@ -15,9 +15,9 @@ CGC TECHNICAL CAMPUS – B-Tech, Mechanical Engineering; CGPA: 8.57/10          
 ## Work Experience
 ## MathCo Bengaluru | ANALYST <br>  Jun 2022 – May 2023<br>                                                                                                     
    - Reduced application build time from 3 months to 1 month. Created CATS model (Complete Automated Time series). Conducted in-depth data analysis, applying statistical techniques to interpret data and uncover actionable insights, resulting in a 20% improvement in product effectiveness.<br>
-   - Developed interactive dashboards & wireframes, did storytelling for the retail media, manufacturing, inventory management, pharma team leveraging python tools(Plotly,Matplotlib,Seaborn) enabling real-time data 
+   - Developed interactive dashboards & wireframes, did storytelling for the retail media, manufacturing, inventory management, and pharma team leveraging Python tools(Plotly, Matplotlib,Seaborn) enabling real-time data 
     visualization and analysis; accelerated decision-making and reduced time spent on manual data processing by 50%.<br>
-   - Managed project of well-known clothing brand aligning inventory and marketing roadmaps to boost performance. Created multi-team synergy, effective demand forecasting and communication and seen inventory and campaign 
+   - Managed project of well-known clothing brand aligning inventory and marketing roadmaps to boost performance. Created multi-team synergy, effective demand forecasting and communication and saw inventory and campaign 
     performance improved.
    
 ## MathCo Bengaluru | ANALYST INTERN <br>                                                                                   Jan 2022 – May 2022
@@ -45,8 +45,8 @@ CGC TECHNICAL CAMPUS – B-Tech, Mechanical Engineering; CGPA: 8.57/10          
 ### PAMAZON SUPERSTORE REPORT
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-- Acquired data through web scrapping techniques and from data sources. Connected databases (Excel, SQL), analyzed tables and relations. Performed data cleaning, used power query editor DAX.
-- Developed visualization models, created dashboard pinned report. Created live dashboard.
+- Acquired data through web scrapping techniques and from data sources. Connected databases (Excel, SQL), analyzed tables and relations. Performed data cleaning, and used power query editor DAX.
+- Developed visualization models, and created dashboard pinned report. Created live dashboard.
 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
